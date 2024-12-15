@@ -1,0 +1,5 @@
+hypercorn
+fastapi
+pandas
+httpx
+python-dotenv
